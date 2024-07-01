@@ -32,6 +32,8 @@ Its main use is to test if the website redirects all HTTP requests to HTTPS endp
    ```bash
    python RedirectRanger.py -l urls.txt
 
+![Demo of RedirectRanger](https://github.com/QuackTheCode/RedirectRanger/blob/main/demo/demo2.gif)
+
 ## Output
 
    ```sql
