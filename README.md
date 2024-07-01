@@ -1,6 +1,6 @@
 # RedirectRanger
 
-RedirectRanger is a tool designed to check the redirection of URLs from HTTP to HTTPS. It extracts URLs from a specified file, performs cURL requests to check redirection, and logs the results.It should ideally be used in combination with URLs mapped or found from various other tools such as Burp Suite, GAP, Katana or any other tool alongside the results from manually mapping the application and navigating through everything. 
+RedirectRanger is a tool designed to check the redirection of URLs from HTTP to HTTPS. It extracts URLs from a specified file, performs cURL requests to check redirection, and logs the results. It should ideally be used in combination with URLs mapped or found from various other tools such as Burp Suite, GAP, Katana or any other tool alongside the results from manually mapping the application and navigating through everything. 
 
 Its main use is to test if the website redirects all HTTP requests to HTTPS endpoints instead across all functionality.
 
