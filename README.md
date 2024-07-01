@@ -28,6 +28,9 @@ Currently, the tool only works with the output of the extracted URLs from the GA
    ../../test/test [http://site.com/redirect_to_https]
    ../../test2/test [http://site.com/no_redirect]
    ../../test3/test [http://site.com/other_response]
+   ```
+
+![Demo of RedirectRanger](https://github.com/QuackTheCode/RedirectRanger/blob/main/demo/urlstxt.png)
 
 3. Run the tool
 
