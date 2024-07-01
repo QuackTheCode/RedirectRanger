@@ -4,6 +4,8 @@ RedirectRanger is a tool designed to check the redirection of URLs from HTTP to 
 
 Its main use is to test if the website redirects all HTTP requests to HTTPS endpoints instead across all functionality.
 
+Currently, the tool only works with the output of the extracted URLs from the GAP Plugin in Burp Suite - a specific format. There are plans to change this to work with any format/list of URLs.
+
 ## Features
 
 - Extract URLs from a text file.
