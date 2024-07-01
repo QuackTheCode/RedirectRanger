@@ -52,4 +52,7 @@ Currently, the tool only works with the output of the extracted URLs from the GA
          └── other_responses.txt (only if there are other types of responses)
    ```
 
-   ![Demo of RedirectRanger](https://github.com/QuackTheCode/RedirectRanger/blob/main/demo/demo3.png)
+## Future Plans
+
+- Modify script to work with various formats of lists and not just GAP output
+- Implement support for other request types other than HTTP GET requests
