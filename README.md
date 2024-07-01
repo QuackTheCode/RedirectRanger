@@ -9,6 +9,7 @@ Currently, the tool only works with the output of the extracted URLs from the GA
 ## Features
 
 - Extract URLs from a text file.
+- Filter out for unique URLs (removes duplicates)
 - Check if URLs are redirected from HTTP to HTTPS.
 - Log results into separate files based on the type of response.
 - Automatically creates a directory based on the domain of the first URL.
