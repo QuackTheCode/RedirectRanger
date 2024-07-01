@@ -43,5 +43,6 @@ Its main use is to test if the website redirects all HTTP requests to HTTPS endp
 ├── successful_redirects.txt (only if there are successful redirects)
 ├── no_redirects.txt (only if there are URLs that did not redirect)
 └── other_responses.txt (only if there are other types of responses)
+   ```
 
 ![Demo of RedirectRanger](https://github.com/QuackTheCode/RedirectRanger/blob/main/demo/demo3.png)
