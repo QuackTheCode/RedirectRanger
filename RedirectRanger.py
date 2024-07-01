@@ -28,7 +28,7 @@ def print_help():
 \033[92m / _, _/  __/ /_/ / / /  /  __/ /__/ /_/ _, _/ /_/ / / / / /_/ /  __/ /
 \033[94m/_/ |_|\___/\__,_/_/_/   \___/\___/\__/_/ |_|\__,_/_/ /_/\__, /\___/_/
                                                         /____/
-    \033[95mv1.0 by Jonathan Pake\033[0m
+    \033[95mv1.0 by QuackTheCode\033[0m
 
 \033[93mDescription:\033[0m
 \033[92mRedirectRanger is a tool designed to check the redirection of URLs from HTTP to HTTPS.
