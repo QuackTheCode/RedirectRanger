@@ -30,24 +30,25 @@ Currently, the tool only works with the output of the extracted URLs from the GA
    ../../test3/test [http://site.com/other_response]
    ```
 
-![Demo of RedirectRanger](https://github.com/QuackTheCode/RedirectRanger/blob/main/demo/urlstxt.png)
+   ![Demo of RedirectRanger](https://github.com/QuackTheCode/RedirectRanger/blob/main/demo/urlstxt.png)
 
 3. Run the tool
 
    ```bash
    python RedirectRanger.py -l urls.txt
+   ```
 
-![Demo of RedirectRanger](https://github.com/QuackTheCode/RedirectRanger/blob/main/demo/demo2.gif)
+   ![Demo of RedirectRanger](https://github.com/QuackTheCode/RedirectRanger/blob/main/demo/demo2.gif)
 
 ## Output
 
    ```sql
-   example.com/
-├── curl_commands.txt
-├── results.txt
-├── successful_redirects.txt (only if there are successful redirects)
-├── no_redirects.txt (only if there are URLs that did not redirect)
-└── other_responses.txt (only if there are other types of responses)
+      example.com/
+         ├── curl_commands.txt
+         ├── results.txt
+         ├── successful_redirects.txt (only if there are successful redirects)
+         ├── no_redirects.txt (only if there are URLs that did not redirect)
+         └── other_responses.txt (only if there are other types of responses)
    ```
 
-![Demo of RedirectRanger](https://github.com/QuackTheCode/RedirectRanger/blob/main/demo/demo3.png)
+   ![Demo of RedirectRanger](https://github.com/QuackTheCode/RedirectRanger/blob/main/demo/demo3.png)
